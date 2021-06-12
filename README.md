@@ -9,6 +9,7 @@ Check out my latest work, [The Bobarista](https://randychong.github.io/bobarista
 You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
 
 Primary Technologies:
+
 <img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
 <p align="left">
 <img src="https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png" height="100px"></img>
