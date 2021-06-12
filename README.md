@@ -7,5 +7,3 @@ Check out my latest work, [The Bobarista](https://randychong.github.io/bobarista
 You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
 
 Technologies:
-
-<i class="devicon-react-original colored"></i>
