@@ -7,9 +7,6 @@ My coding journey began with DigitalCraft's coding bootcamp and I hope to contin
 Check out my latest work, [The Bobarista](https://randychong.github.io/bobarista/), a site for coffee and tea lovers.
 
 You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
-<p align="right">
-<img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
-</p>
 
 Primary Technologies:
 
@@ -25,3 +22,6 @@ Primary Technologies:
 <img src="https://user-images.githubusercontent.com/80119466/121764093-ccbb4780-cb06-11eb-8dee-296563cc32c7.png" height="100px"></img>
 <img src="https://user-images.githubusercontent.com/80119466/121764094-cf1da180-cb06-11eb-9626-8fcf3cd904ad.png" height="100px"></img>
 
+<p align="right">
+<img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
+</p>
