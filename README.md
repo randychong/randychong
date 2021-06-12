@@ -11,6 +11,7 @@ You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
 Primary Technologies:
 <p align="left">
 <img src="https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png" height="100px"></img>
+<img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
 <img src="https://user-images.githubusercontent.com/80119466/121763980-b2cd3500-cb05-11eb-98ee-5d39194221e8.png" height="100px"></img>
 <img src="https://user-images.githubusercontent.com/80119466/121763981-b3fe6200-cb05-11eb-91cc-a822fd294ed8.png" height="100px"></img>
 <img src="https://user-images.githubusercontent.com/80119466/121764081-bf9e5880-cb06-11eb-8a81-22f9b4ccb35a.png" height="100px"></img>
