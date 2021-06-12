@@ -1,4 +1,4 @@
-#Welcome to Randy's Github!
+# Welcome to Randy's Github!
 
 Hey! My name is Randy, a web developer who recently moved to Houston, TX. I started my career in customer service and now I've added software development into my skillset. Designing web applications can be challenging, but also fun at the same time. My coding journey began with DigitalCraft's coding bootcamp and I hope to continue expanding my skills post-graduation.
 
