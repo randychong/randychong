@@ -8,7 +8,7 @@ Check out my latest work, [The Bobarista](https://randychong.github.io/bobarista
 
 You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
 
-<img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
+<img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif" align="center"></img>
 
 Primary Technologies:
 
