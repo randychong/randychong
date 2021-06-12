@@ -6,7 +6,7 @@ My coding journey began with DigitalCraft's coding bootcamp and I hope to contin
 
 Check out my latest work, [The Bobarista](https://randychong.github.io/bobarista/), a site for coffee and tea lovers.
 
-You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/). https://gph.is/g/aKeyQG8
+You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).<img src="https://gph.is/g/aKeyQG8"></img>
 
 Primary Technologies:
 
