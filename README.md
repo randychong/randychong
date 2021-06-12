@@ -8,7 +8,7 @@ You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
 
 Technologies:
 
-<img src="https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png" height="24px"></img>
+<img src="https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png" height="50px"></img>
 
 ![html5](https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png)
 ![css3](https://user-images.githubusercontent.com/80119466/121763980-b2cd3500-cb05-11eb-98ee-5d39194221e8.png)
