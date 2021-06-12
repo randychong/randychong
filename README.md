@@ -26,7 +26,7 @@ Primary Technologies:
 
 First Header | Second Header
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+Content from cell 1 | <img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
 Content in the first column | Content in the second column
 
 <img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
