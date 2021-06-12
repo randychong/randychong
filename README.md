@@ -24,7 +24,9 @@ Primary Technologies:
 <img src="https://user-images.githubusercontent.com/80119466/121764094-cf1da180-cb06-11eb-9626-8fcf3cd904ad.png" height="100px"></img>
 </p> 
 
+First Header | Second Header
 ------------ | -------------
-test | test
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 <img src="https://media.giphy.com/media/kD4pknHevDUQNOTSbl/giphy.gif"></img>
