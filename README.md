@@ -8,6 +8,6 @@ You can connect with me on [LinkedIn](https://randychong.github.io/bobarista/).
 
 Technologies:
 
-* ![html5](https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png)
-* ![css3](https://user-images.githubusercontent.com/80119466/121763980-b2cd3500-cb05-11eb-98ee-5d39194221e8.png)
-* ![javascript](https://user-images.githubusercontent.com/80119466/121763981-b3fe6200-cb05-11eb-91cc-a822fd294ed8.png)
+*![html5](https://user-images.githubusercontent.com/80119466/121763976-b1037180-cb05-11eb-9d68-c2c2f576f2be.png)
+*![css3](https://user-images.githubusercontent.com/80119466/121763980-b2cd3500-cb05-11eb-98ee-5d39194221e8.png)
+*![javascript](https://user-images.githubusercontent.com/80119466/121763981-b3fe6200-cb05-11eb-91cc-a822fd294ed8.png)
